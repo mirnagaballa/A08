@@ -99,7 +99,7 @@ article img {
 /* the styles for the aside */
 aside {
     width: 215px;
-    float: right;
+    float: left;
     padding-left: 20px;
     padding-bottom: 20px;
 }
