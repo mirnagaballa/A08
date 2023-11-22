@@ -39,7 +39,7 @@ header h3 {
     font-style:italic;
 }
 header img {
-    float:left;
+    float:right;
     padding: 0 30px;
 }
 .shadow {
@@ -99,7 +99,7 @@ article img {
 /* the styles for the aside */
 aside {
     width: 215px;
-    float: left;
+    float: right;
     padding-left: 20px;
     padding-bottom: 20px;
 }
